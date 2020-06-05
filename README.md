@@ -1,2 +1,4 @@
 # DigitalHumanities
-Statistik
+Statistik-Seminar
+Philipps-Universiät
+Marburg 
